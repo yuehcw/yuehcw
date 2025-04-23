@@ -7,19 +7,15 @@
 
 - 🌱 I’m currently learning **Spring, Django, AWS, and advanced web development practices.**
 
-- 🎓 The project that taught me the most [Spotify Clone](https://spotify-clone.yuehcw.com/)
+- 🎓 The project that taught me the most [BaseballViz](https://padres-frontend.vercel.app/)
 
 - 💖 My most loved project [Baller - NBA Player Trading Platform](https://baller-yuehcw-f6895eed5e61.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio.yuehcw.com/](https://portfolio.yuehcw.com/)
+- 👨‍💻 All of my projects are available at [My website](https://portfolio.yuehcw.com/)
 
-- 📝 I share ideas about web development on [https://www.linkedin.com/in/yueh-chun-wu/](https://www.linkedin.com/in/yueh-chun-wu/)
+- 📫 How to reach me **yuehcw@uci.edu**
 
-- 💬 Ask me about **React, Next.js, and building dynamic front-end applications.**
-
-- 📫 How to reach me **kevin.wu.sde@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/185boIxiCPehqFWJBKRLVG0qzZpA7s-5-/view](https://drive.google.com/file/d/185boIxiCPehqFWJBKRLVG0qzZpA7s-5-/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16cjW1v8_RUVwy8LWdeNGSeCC6--dhLqH/view)
 
 - ⚡ Fun fact **I’m a huge fan of Cade Cunningham!**
 
