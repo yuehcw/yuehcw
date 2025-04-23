@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Wu</h1>
-<h3 align="center">Front-end developer seeking a chill, creative space to craft user-friendly interfaces!</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuehcw" alt="yuehcw" /></a> </p>
 
