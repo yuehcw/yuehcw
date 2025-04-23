@@ -11,7 +11,7 @@
 
 - 💖 My most loved project [Baller - NBA Player Trading Platform](https://baller-yuehcw-f6895eed5e61.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [My website](https://portfolio.yuehcw.com/)
+- 👨‍💻 All of my projects are available at [My Website](https://portfolio.yuehcw.com/)
 
 - 📫 How to reach me **yuehcw@uci.edu**
 
